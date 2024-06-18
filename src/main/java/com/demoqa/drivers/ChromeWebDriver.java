@@ -20,7 +20,7 @@ public class ChromeWebDriver {
         options.addArguments("--disable-extensions");  //  отключает все установленные расширения в браузере Chrome
         options.addArguments("--window-size-1920,1080");    // если метод maximize не сработает, то даем исп-ть это расширение --window-size-1920,1080
         options.addArguments("--no-sandbox");// работаей по определ-му сервису
-        options.setPageLoadStrategy(PageLoadStrategy.EAGER);
+        options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
 
         if (Boolean.parseBoolean(getValue("headless"))) { // если в апп.проперти тру, то запарсь getValue("headless)
             options.addArguments("--headless");// идея headlessa - тестируй без открытия браузера

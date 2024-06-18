@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class FrameTest extends  BaseTest{
     @Test
     public  void test123(){
-        browserHelper.open(ConfigReader.getValue("baseUrl") + Endpoints.FRAMES.getEndpoint());
+        browserHelper.open(ConfigReader.getValue("baseDevUrl") + Endpoints.FRAMES.getEndpoint());
         iframeHelper.switchToFrame("frame1");
         System.out.println(driver.findElement(By.id("sampleHeading")).getText());
         iframeHelper.switchToParentFrame();
