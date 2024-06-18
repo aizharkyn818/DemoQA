@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+<!--        <listeners>-->
+<!--            <listener class-name="com.demoqa.listener.ScreenshotListener"></listener>-->
+<!--        </listeners>-->
+    <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/DemoQAWinter2024">
+        <classes>
+            <class name="ButtonsTest"/>
+            <class name="FrameTest"/>
+            <class name="PracticeFormTest"/>
+            <class name="MenuTest"/>
+            <class name="BrowserHelperTest"/>
+            <class name="WebTableTest"/>
+            <class name="TextBoxTest"/>
+            <class name="AlertTest"/>
+            <class name="SelectTest"/>
+            <class name="ProgressBarTest"/>
+        </classes>
+    </test>
+</suite>
+<!--                <methods>-->
+<!--                    <include name="fullNameBoxTest"/>-->
+<!--                    <include name="emailBoxTest2"/>-->
+<!--                    <include name="currentAddressBoxTest"/>-->
+<!--                    <include name="permanentAddressBoxTest"/>-->
+<!--                    <include name="submitButtonTest"/>-->
+<!--                </methods>-->
+
+<!--            <class name="com.demoqa1.elements.TextBox2">-->
+<!--                <methods>-->
+<!--                    <include name="testTextBox"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.demoqa1.elements.TextBoxButton">-->
+<!--                <methods>-->
+<!--                    <include name="TextBoxAuto"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.demoqa1.forms.KoverSamolet2">-->
+<!--                <methods>-->
+<!--                    <include name="koverSamoletTest"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.demoqa1.forms.Namba">-->
+<!--                <methods>-->
+<!--                    <include name="nambaFoodTest"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.demoqa1.locators.BasicLocators">-->
+<!--                <methods>-->
+<!--                    <include name="findByIdTest"/>-->
+<!--                    <include name="findByLinkText"/>-->
+<!--                    <include name="findByXPath"/>-->
+<!--                    <include name="findByXPathRelative"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.demoqa1.locators.KoverSamolet">-->
+<!--                <methods>-->
+<!--                    <include name="koverSamoletTest"/>-->
+<!--                </methods>-->
+<!--            </class>-->
