@@ -20,7 +20,6 @@ public class AlertTest extends BaseTest {
         webElementActions.click(demoQAPages.getAlertPage().confirmAlertBtn);
         alertHelper.acceptAlert();
         webElementActions.pause(5000);
-
     }
 
     @Test(groups = {"Regression", "API", "1722"}, description = "AlertTest1")

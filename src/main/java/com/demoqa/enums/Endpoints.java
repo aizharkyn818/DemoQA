@@ -7,7 +7,8 @@ public enum Endpoints {
     ALERT("/alerts"),
     FRAMES("/frames"),
     CHECKBOX("/checkbox"),
-    MENU("/menu");
+    MENU("/menu"),
+    BUTTONS("/buttons");
 
 
     @Getter

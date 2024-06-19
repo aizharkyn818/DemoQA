@@ -23,7 +23,6 @@ public class BaseTest {
 
 
 
-
     @BeforeClass(alwaysRun = true)
     public void setUp() {
         driver = DriverManager.getDriver();
