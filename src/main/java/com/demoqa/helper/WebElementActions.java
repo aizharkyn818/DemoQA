@@ -90,7 +90,7 @@ public class WebElementActions {
     }
 
     public WebElementActions waitElementToBeVisible(WebElement element) {
-        new WebDriverWait((DriverManager.getDriver()), Duration.ofSeconds(15))
+        new WebDriverWait(DriverManager.getDriver(), Duration.ofSeconds(15))
                 .until(ExpectedConditions.visibilityOf(element));
         return this;
     }
