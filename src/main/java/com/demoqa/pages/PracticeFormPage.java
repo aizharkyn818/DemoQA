@@ -84,7 +84,7 @@ public class PracticeFormPage extends BasePage {
         Thread.sleep(5000);
         actions.sendKeysWithEnter(subjectsInput, practiceFormEntity.getSubjectInput());
                 randomlyCheckCheckboxes(sports, reading, music);
-        actions.sendKeys(uploadPicture, "C:\\Users\\User\\IdeaProjects\\DemoQAWinter2024\\src\\main\\java\\com\\demoqa\\pics\\13680721_1760866110856798_2223196443428561251_n.jpg")
+        actions.sendKeys(uploadPicture, "src/main/java/com/demoqa/pics/13680721_1760866110856798_2223196443428561251_n.jpg")
                 .sendKeys(currentAddressInput, practiceFormEntity.getCurrentAddressInput())
                 .sendKeysWithEnter(stateSelect, actions.randomElementSelection("(//div[@class=' css-1hwfws3'])[1]", "//div[contains(@class,'menu')]//div[contains(@class,'option')]"))
                 .sendKeysWithEnter(citySelect, actions.randomElementSelection("(//div[@class=' css-1hwfws3'])[2]", "//div[contains(@class,'menu')]//div[contains(@class,'option')]"));

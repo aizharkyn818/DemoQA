@@ -6,13 +6,12 @@
 <!--        </listeners>-->
     <test verbose="2" preserve-order="true" name="C:/Users/User/IdeaProjects/DemoQAWinter2024">
         <classes>
-            <class name="ButtonsTest"/>
             <class name="FrameTest"/>
             <class name="PracticeFormTest"/>
             <class name="MenuTest"/>
 <!--            <class name="BrowserHelperTest"/>-->
 <!--            <class name="WebTableTest"/>-->
-<!--            <class name="TextBoxTest"/>-->
+            <class name="TextBoxTest"/>
 <!--            <class name="AlertTest"/>-->
 <!--            <class name="SelectTest"/>-->
 <!--            <class name="ProgressBarTest"/>-->
