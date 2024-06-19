@@ -14,7 +14,8 @@ public class ChromeWebDriver {
     public static WebDriver loadChromeDriver() {
         WebDriverManager.chromedriver().setup();
 
-        ChromeOptions options = new ChromeOptions();     // добавили объект Option(настройки, сертификаты, )
+        ChromeOptions options = new ChromeOptions();// добавили объект Option(настройки, сертификаты, )
+        options.setBinary("C:\\Program Files\\Google\\Chrome\\Application");
         options.addArguments("--remote-allow-origins=*"); // передаем, чтобы запускать эти тесты не локально, а ч/з удаленный сервер
         options.addArguments("--disable-extensions");  //  отключает все установленные расширения в браузере Chrome
         options.addArguments("--window-size-1920,1080");    // если метод maximize не сработает, то даем исп-ть это расширение --window-size-1920,1080
