@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e376e0d5-c5ef-4926-8cee-de386f906c3f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gmdpvjBsQUkDOgkqGj1qr3ShIg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.WaitsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.AlertTest.alertTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AlertTest.alertTest1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicLocators.findByIdTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicLocators.findByLinkText.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicLocators.findByXPath.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BasicLocators.findByXPathRelative.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserHelperTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BrowserHelperTest.test123.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.doubleClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ButtonsTest.rightClickTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/IdeaProjects/DemoQAWinter2024/E2E_suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/IdeaProjects/DemoQAWinter2024/smoke_suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/IdeaProjects/DemoQAWinter2024/src/test/resources/test_suites/regression_suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/User/IdeaProjects/DemoQAWinter2024/src/test/resources/test_suites/smoke_suite.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckBoxTest.testCheckBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckBoxTest.testHomeWithoutSelection.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Checkbox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Checkbox.testCheckBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Checkbox.testHomeWithoutSelection.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckboxPage.testCheckBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.FrameTest.test123.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.KoverSamolet.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.KoverSamolet.koverSamoletTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MenuTest.moveToElementTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Namba.nambaFoodTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PracticeFormTest.practiceFormTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarTest.progressBarTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarTest.testGetProgressBarPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ProgressBarTest.testProgressBarAt52Percent.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTest.test1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTest.test123.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTest.test2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTest.test3.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTest.testOldStyleSelectMenu.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SelectTest.testSelectMenu.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.currentAddressBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.emailBoxTest2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.fullNameBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.permanentAddressBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.submitButtonTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.textBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox.textBoxTest2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBox2.testTextBox.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBoxButton.TextBoxAuto.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TextBoxTest.textBoxTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTableTest.editDataTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTableTest.editValuesTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTableTest.test123.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTableTest.test1234.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WebTableTest.test12345.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/User/IdeaProjects/DemoQAWinter2024/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter2024\src\main\java\com\demoqa\pics" />
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter2024" />
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter2024\src\test\resources\test_suites" />
+      <recent name="C:\Users\User\IdeaProjects\DemoQAWinter2024\src\main\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PracticeFormTest.practiceFormTest">
+    <configuration name="ButtonsTest.doubleClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter2024" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ButtonsTest" />
+      <option name="METHOD_NAME" value="doubleClickTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ButtonsTest.rightClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter2024" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ButtonsTest" />
+      <option name="METHOD_NAME" value="rightClickTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/User/IdeaProjects/DemoQAWinter2024/smoke_suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter2024" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoke_suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameTest.test123" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter2024" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FrameTest" />
+      <option name="METHOD_NAME" value="test123" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeFormTest.practiceFormTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQAWinter2024" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PracticeFormTest" />
+      <option name="METHOD_NAME" value="practiceFormTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PracticeFormTest.practiceFormTest" />
+        <item itemvalue="TestNG.ButtonsTest.doubleClickTest" />
+        <item itemvalue="TestNG.FrameTest.test123" />
+        <item itemvalue="TestNG.ButtonsTest.rightClickTest" />
+        <item itemvalue="TestNG.C:/Users/User/IdeaProjects/DemoQAWinter2024/smoke_suite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e376e0d5-c5ef-4926-8cee-de386f906c3f" name="Changes" comment="" />
+      <created>1716306875370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716306875370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/PracticeFormTest.java</url>
+          <line>6</line>
+          <properties class="PracticeFormTest" method="practiceFormTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/AlertTest.java</url>
+          <line>25</line>
+          <properties class="AlertTest" method="alertTest1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
